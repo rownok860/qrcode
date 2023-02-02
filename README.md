@@ -10,8 +10,9 @@ Clone this repo.Then run this on shell
 ``` shell script
 npm install qrcode
 ```
-open index.js file in your code editor & replace https://rownok.com with your url & run the index.js
-## Replit
-
+open index.js file in your code editor & replace https://rownok.com with your url & run this on shell
+``` shell script
+node index.js
+```
 You can run it on replit.
 <a href="https://replit.com/@rownok860/qrcode?v=1">Click Here </a>
