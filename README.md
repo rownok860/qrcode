@@ -14,5 +14,6 @@ open index.js file in your code editor & replace https://rownok.com with your ur
 ``` shell script
 node index.js
 ```
+## Replit
 You can run it on replit.
 <a href="https://replit.com/@rownok860/qrcode?v=1">Click Here </a>
