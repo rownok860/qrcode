@@ -6,11 +6,11 @@
 Make qr code with node js
 
 ## Instruction
-Clone this repo & open index.js file in your code editor.Then run this on shell
+Clone this repo.Then run this on shell
 ``` shell script
 npm install qrcode
 ```
-After this replace https://rownok.com with your url & run the index.js
+open index.js file in your code editor & replace https://rownok.com with your url & run the index.js
 ## Replit
 
 You can run it on replit.
