@@ -6,7 +6,7 @@
 Make qr code with node js
 
 ## Instruction
-Open index.js file in your code editor.Then run this on shell
+Clone this repo & open index.js file in your code editor.Then run this on shell
 ``` shell script
 npm install qrcode
 ```
