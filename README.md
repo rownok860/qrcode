@@ -19,4 +19,4 @@ You can run it on replit.
 <a href="https://replit.com/@rownok860/qrcode?v=1">Click Here </a>
 ## Support Me:
 <br>
-<a href="https://www.buymeacoffee.com/rownok860"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=💻&slug=rownok860&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/rownok"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=💻&slug=rownok860&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
