@@ -16,7 +16,7 @@ node index.js
 ```
 ## Replit
 You can run it on replit.
-<a href="https://replit.com/@rownok860/qrcode?v=1">Click Here </a>
+[![Run on Repl.it](https://replit.com/badge/github/rownok860/qrcode)](https://replit.com/@rownok860/qrcode?v=1)
 ## Support Me:
 <br>
 <a href="https://www.buymeacoffee.com/rownok"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=💻&slug=rownok860&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
